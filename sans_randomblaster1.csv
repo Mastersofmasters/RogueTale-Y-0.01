@@ -29,11 +29,14 @@
 0,BoneStab,1,50,2,5,,	
 0,BoneStab,2,50,2,5,,	
 0,BoneStab,3,50,2,5,,	
+0,Bonev,121,296,100,0,200,$bb,,
+0,Bonev,526,196,100,2,200,$bb,,
+1,Bonev,121,296,100,0,200,$bb,,
+0,Bonev,526,196,100,2,200,$bb,,
 0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.46666,0.03333
 0.53333,JMPNZ,6,$Loop,,,,,,
 0,EndAttack,,,,,,,,
 
 
-0,Bonev,121,296,100,0,200,$bb,,
-0,Bonev,526,196,100,2,200,$bb,,
+
 2,EndAttack,
