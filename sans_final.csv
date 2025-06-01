@@ -353,7 +353,7 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,SansHead,NoEyes,,
 0,SansText,My final Attack has yet to be shown,
 0,SansHead,LookLeft,,,																			
-0,HeartMode,0,,,,
+0,HeartMode,0,,,,,,,
 
 0.828,FightXY,666,666,,,,,,
 
