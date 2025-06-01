@@ -353,7 +353,16 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,SansHead,NoEyes,,
 0,SansText,My final Attack has yet to be shown,
 0,SansHead,LookLeft,,,																			
-0,HeartMode,1							
+0,HeartMode,1,,,,
+
+0.828,FightXY,666,666,,,,,,
+
+0.828,MercyXY,666,666,,,,,,
+
+0.828,ActXY,666,666,,,,,,
+
+0.828,ItemXY,666,666,,,,,,
+2,SansHead,Closed5,,,,,,,
 0,CombatZoneResizeInstant,800,800,800,800,	
 1.24,GasterBlaster,0,100,0,330,300,90,1.366,0.1,2	
 0.1,GasterBlaster,0,100,0,330,300,100,1.366,0.1;	2	
@@ -364,9 +373,9 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,GasterBlaster,0,100,0,330,300,150,1.366,0.1;	2	
 0.1,GasterBlaster,0,100,0,330,300,160,1.366,0.1;	2	
 0,GasterBlaster,0,100,0,330,300,170,1.366,0.1;	2	
-0.1,GasterBlaster,0	100	0	330	300	180	1.366	0.1;	2	
-0.1,GasterBlaster,0	100	0	330	300	190	1.366	0.1;	2	
-0,GasterBlaster,0.1	100	0	330	300	200	1.366	0.1;	2	
+0.1,GasterBlaster,0,100,0,330,300,180,1.366,0.1;	2	
+0.1,GasterBlaster,0,100,0,330,300,190,1.366,0.1;	2	
+0,GasterBlaster,0.1,100,0,330,300,200,1.366,0.1;	2	
 0,GasterBlaster,0	100	0,330	300	210	1.366	0.1;		
 0.1,GasterBlaster,0	100	0	330	300	220	1.366	0.1;		
 0,GasterBlaster,0.1	100	0	330	300	230	1.366	0.1;	1	
