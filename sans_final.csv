@@ -355,13 +355,13 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,SansHead,LookLeft,,,																			
 0,HeartMode,0,,,,,,,
 
-0.828,FightXY,666,666,,,,,,
+0,FightXY,666,666,,,,,,
 
-0.828,MercyXY,666,666,,,,,,
+0,MercyXY,666,666,,,,,,
 
-0.828,ActXY,666,666,,,,,,
+0,ActXY,666,666,,,,,,
 
-0.828,ItemXY,666,666,,,,,,
+0,ItemXY,666,666,,,,,,
 2,SansHead,Closed5,,,,,,,
 0,CombatZoneResizeInstant,800,800,800,800,	
 1.24,GasterBlaster,0,100,0,330,300,90,1.366,0.1,2	
@@ -389,7 +389,7 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,GasterBlaster	0	100	0	330	300	310	1.366	0.1;	1	
 0,GasterBlaster	0	100	0	330	300	320	1.366	0.1;		
 0,GasterBlaster	0	100	0	330	300	330	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	340	1.366	0.1;		
+0,GasterBlaster,0,100,0,330,300,340,1.366,0.1;		
 1.24,GasterBlaster	0	100	0	330	300	350	1.366	0.1;		
 0.1,GasterBlaster	0	100	0	330	300	360	1.366	0.1;		
 0,GasterBlaster	0	100	0	330	300	370	1.366	0.1;		
